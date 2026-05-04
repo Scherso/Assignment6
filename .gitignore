@@ -1,0 +1,12 @@
+# Eclipse
+.metadata/
+.settings/
+*.launch
+*.prefs
+
+# Compiled output
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
